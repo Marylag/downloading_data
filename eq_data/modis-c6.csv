@@ -1,0 +1,14 @@
+name,last_modified,size,mtime,cksum,md5sum,resourceType,downloadsLink
+Alaska,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Alaska
+Australia_NewZealand,2023-07-24 02:42,8192,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Australia_NewZealand
+Canada,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Canada
+Central_America,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Central_America
+Europe,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Europe
+Global,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Global
+Northern_and_Central_Africa,2023-07-24 02:42,8192,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Northern_and_Central_Africa
+Russia_Asia,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Russia_Asia
+South_America,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/South_America
+South_Asia,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/South_Asia
+SouthEast_Asia,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/SouthEast_Asia
+Southern_Africa,2023-07-24 02:42,4096,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/Southern_Africa
+USA_contiguous_and_Hawaii,2023-07-24 02:42,8192,1690166561,null,null,Directory,https://nrt3.modaps.eosdis.nasa.gov/api/v2/content/archives/FIRMS/modis-c6.1/USA_contiguous_and_Hawaii
